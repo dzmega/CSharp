@@ -1,0 +1,6 @@
+H:\C#\Solution1\Model\bin\Debug\Model.dll
+H:\C#\Solution1\Model\bin\Debug\Model.pdb
+H:\C#\Solution1\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+H:\C#\Solution1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+H:\C#\Solution1\Model\obj\Debug\Model.dll
+H:\C#\Solution1\Model\obj\Debug\Model.pdb

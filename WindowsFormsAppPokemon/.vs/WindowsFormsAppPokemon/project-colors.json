@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a32ecd29-c620-4d69-b01b-96e13d0e4eeb": {
+      "ProjectGuid": "a32ecd29-c620-4d69-b01b-96e13d0e4eeb",
+      "DisplayName": "WindowsFormsAppPokemon",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

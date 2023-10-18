@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTeilnehmer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Teilnehmer>
+    <Email>d</Email>
+    <Nachname>c</Nachname>
+    <Vorname>q</Vorname>
+    <AnzahlTeilnehmer>2</AnzahlTeilnehmer>
+  </Teilnehmer>
+  <Teilnehmer>
+    <Email>d</Email>
+    <Nachname>b</Nachname>
+    <Vorname>q</Vorname>
+    <AnzahlTeilnehmer>2</AnzahlTeilnehmer>
+  </Teilnehmer>
+</ArrayOfTeilnehmer>

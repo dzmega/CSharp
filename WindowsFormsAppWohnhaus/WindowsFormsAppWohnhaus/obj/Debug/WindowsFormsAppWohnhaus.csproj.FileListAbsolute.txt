@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppWohnhaus\WindowsFormsAppWohnhaus\obj\Debug\WindowsFormsAppWohnhaus.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppWohnhaus\WindowsFormsAppWohnhaus\obj\Debug\WindowsFormsAppWohnhaus.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppWohnhaus\WindowsFormsAppWohnhaus\obj\Debug\WindowsFormsAppWohnhaus.Properties.Resources.resources
+H:\C#\WindowsFormsAppWohnhaus\WindowsFormsAppWohnhaus\obj\Debug\WindowsFormsAppWohnhaus.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppWohnhaus\WindowsFormsAppWohnhaus\obj\Debug\WindowsFormsAppWohnhaus.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppWohnhaus\WindowsFormsAppWohnhaus\bin\Debug\WindowsFormsAppWohnhaus.exe.config
+H:\C#\WindowsFormsAppWohnhaus\WindowsFormsAppWohnhaus\bin\Debug\WindowsFormsAppWohnhaus.exe
+H:\C#\WindowsFormsAppWohnhaus\WindowsFormsAppWohnhaus\bin\Debug\WindowsFormsAppWohnhaus.pdb
+H:\C#\WindowsFormsAppWohnhaus\WindowsFormsAppWohnhaus\obj\Debug\WindowsFormsAppWohnhaus.Form1.resources
+H:\C#\WindowsFormsAppWohnhaus\WindowsFormsAppWohnhaus\obj\Debug\WindowsFormsAppWohnhaus.exe
+H:\C#\WindowsFormsAppWohnhaus\WindowsFormsAppWohnhaus\obj\Debug\WindowsFormsAppWohnhaus.pdb

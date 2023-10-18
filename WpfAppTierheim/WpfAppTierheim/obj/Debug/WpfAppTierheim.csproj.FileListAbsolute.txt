@@ -1,0 +1,16 @@
+H:\C#\WpfAppTierheim\WpfAppTierheim\bin\Debug\WpfAppTierheim.exe.config
+H:\C#\WpfAppTierheim\WpfAppTierheim\bin\Debug\WpfAppTierheim.exe
+H:\C#\WpfAppTierheim\WpfAppTierheim\bin\Debug\WpfAppTierheim.pdb
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\WpfAppTierheim.csproj.SuggestedBindingRedirects.cache
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\MainWindow.g.cs
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\App.g.cs
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\WpfAppTierheim_MarkupCompile.cache
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\WpfAppTierheim_MarkupCompile.lref
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\MainWindow.baml
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\WpfAppTierheim.g.resources
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\WpfAppTierheim.Properties.Resources.resources
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\WpfAppTierheim.csproj.GenerateResource.cache
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\WpfAppTierheim.csproj.CoreCompileInputs.cache
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\WpfAppTierheim.exe
+H:\C#\WpfAppTierheim\WpfAppTierheim\obj\Debug\WpfAppTierheim.pdb

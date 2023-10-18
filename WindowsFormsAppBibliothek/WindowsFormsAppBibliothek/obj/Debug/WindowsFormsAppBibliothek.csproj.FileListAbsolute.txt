@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppBibliothek\WindowsFormsAppBibliothek\bin\Debug\WindowsFormsAppBibliothek.exe.config
+H:\C#\WindowsFormsAppBibliothek\WindowsFormsAppBibliothek\bin\Debug\WindowsFormsAppBibliothek.exe
+H:\C#\WindowsFormsAppBibliothek\WindowsFormsAppBibliothek\bin\Debug\WindowsFormsAppBibliothek.pdb
+H:\C#\WindowsFormsAppBibliothek\WindowsFormsAppBibliothek\obj\Debug\WindowsFormsAppBibliothek.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppBibliothek\WindowsFormsAppBibliothek\obj\Debug\WindowsFormsAppBibliothek.Properties.Resources.resources
+H:\C#\WindowsFormsAppBibliothek\WindowsFormsAppBibliothek\obj\Debug\WindowsFormsAppBibliothek.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppBibliothek\WindowsFormsAppBibliothek\obj\Debug\WindowsFormsAppBibliothek.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppBibliothek\WindowsFormsAppBibliothek\obj\Debug\WindowsFormsAppBibliothek.exe
+H:\C#\WindowsFormsAppBibliothek\WindowsFormsAppBibliothek\obj\Debug\WindowsFormsAppBibliothek.pdb
+H:\C#\WindowsFormsAppBibliothek\WindowsFormsAppBibliothek\obj\Debug\WindowsFormsAppBibliothek.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppBibliothek\WindowsFormsAppBibliothek\obj\Debug\WindowsFormsAppBibliothek.labelVerfügbarkeit.resources

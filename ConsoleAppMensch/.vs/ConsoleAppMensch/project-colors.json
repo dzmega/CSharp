@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a63267ea-2b6c-4aeb-bc07-da3ee2c55b45": {
+      "ProjectGuid": "a63267ea-2b6c-4aeb-bc07-da3ee2c55b45",
+      "DisplayName": "ConsoleAppMensch",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

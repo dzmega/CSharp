@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppQuadratzahl\WindowsFormsAppQuadratzahl\bin\Debug\WindowsFormsAppQuadratzahl.exe.config
+H:\C#\WindowsFormsAppQuadratzahl\WindowsFormsAppQuadratzahl\bin\Debug\WindowsFormsAppQuadratzahl.exe
+H:\C#\WindowsFormsAppQuadratzahl\WindowsFormsAppQuadratzahl\bin\Debug\WindowsFormsAppQuadratzahl.pdb
+H:\C#\WindowsFormsAppQuadratzahl\WindowsFormsAppQuadratzahl\obj\Debug\WindowsFormsAppQuadratzahl.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppQuadratzahl\WindowsFormsAppQuadratzahl\obj\Debug\WindowsFormsAppQuadratzahl.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppQuadratzahl\WindowsFormsAppQuadratzahl\obj\Debug\WindowsFormsAppQuadratzahl.Quadratzahl.resources
+H:\C#\WindowsFormsAppQuadratzahl\WindowsFormsAppQuadratzahl\obj\Debug\WindowsFormsAppQuadratzahl.Properties.Resources.resources
+H:\C#\WindowsFormsAppQuadratzahl\WindowsFormsAppQuadratzahl\obj\Debug\WindowsFormsAppQuadratzahl.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppQuadratzahl\WindowsFormsAppQuadratzahl\obj\Debug\WindowsFormsAppQuadratzahl.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppQuadratzahl\WindowsFormsAppQuadratzahl\obj\Debug\WindowsFormsAppQuadratzahl.exe
+H:\C#\WindowsFormsAppQuadratzahl\WindowsFormsAppQuadratzahl\obj\Debug\WindowsFormsAppQuadratzahl.pdb

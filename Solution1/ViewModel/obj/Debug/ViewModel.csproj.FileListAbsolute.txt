@@ -1,0 +1,9 @@
+H:\C#\Solution1\ViewModel\bin\Debug\ViewModel.dll
+H:\C#\Solution1\ViewModel\bin\Debug\ViewModel.pdb
+H:\C#\Solution1\ViewModel\bin\Debug\Model.dll
+H:\C#\Solution1\ViewModel\bin\Debug\Model.pdb
+H:\C#\Solution1\ViewModel\obj\Debug\ViewModel.csproj.AssemblyReference.cache
+H:\C#\Solution1\ViewModel\obj\Debug\ViewModel.csproj.CoreCompileInputs.cache
+H:\C#\Solution1\ViewModel\obj\Debug\ViewModel.csproj.CopyComplete
+H:\C#\Solution1\ViewModel\obj\Debug\ViewModel.dll
+H:\C#\Solution1\ViewModel\obj\Debug\ViewModel.pdb

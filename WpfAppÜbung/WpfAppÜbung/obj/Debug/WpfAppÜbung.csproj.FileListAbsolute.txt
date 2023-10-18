@@ -1,0 +1,16 @@
+H:\C#\WpfAppÜbung\WpfAppÜbung\bin\Debug\WpfAppÜbung.exe.config
+H:\C#\WpfAppÜbung\WpfAppÜbung\bin\Debug\WpfAppÜbung.exe
+H:\C#\WpfAppÜbung\WpfAppÜbung\bin\Debug\WpfAppÜbung.pdb
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\WpfAppÜbung.csproj.AssemblyReference.cache
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\WpfAppÜbung.csproj.SuggestedBindingRedirects.cache
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\MainWindow.g.cs
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\App.g.cs
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\WpfAppÜbung_MarkupCompile.cache
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\WpfAppÜbung_MarkupCompile.lref
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\MainWindow.baml
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\WpfAppÜbung.g.resources
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\WpfAppÜbung.Properties.Resources.resources
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\WpfAppÜbung.csproj.GenerateResource.cache
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\WpfAppÜbung.csproj.CoreCompileInputs.cache
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\WpfAppÜbung.exe
+H:\C#\WpfAppÜbung\WpfAppÜbung\obj\Debug\WpfAppÜbung.pdb

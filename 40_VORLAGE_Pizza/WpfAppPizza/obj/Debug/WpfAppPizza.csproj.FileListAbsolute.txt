@@ -1,0 +1,66 @@
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe.config
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\bin\Debug\WpfAppPizza.pdb
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.g.cs
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\App.g.cs
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.cache
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.lref
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\MainWindow.baml
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.g.resources
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.Properties.Resources.resources
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.GenerateResource.cache
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.CoreCompileInputs.cache
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.exe
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.pdb
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\WpfAppPizza.csprojAssemblyReference.cache
+C:\Schule\fi11csharp\1aJahr2018_19\WPF\WpfAppPizza\WpfAppPizza\obj\Debug\App.baml
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe.config
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\bin\Debug\WpfAppPizza.pdb
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.csprojResolveAssemblyReference.cache
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\MainWindow.g.cs
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\App.g.cs
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.cache
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.lref
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\App.baml
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\MainWindow.baml
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.g.resources
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.Properties.Resources.resources
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.GenerateResource.Cache
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.CoreCompileInputs.cache
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.exe
+C:\Users\EhrmannIngrid\OneDrive - Berufliches Schulzentrum für Wirtschaft und Datenverarbeitung\C#\6_WPF\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.pdb
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe.config
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\bin\Debug\WpfAppPizza.pdb
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.csprojResolveAssemblyReference.cache
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\MainWindow.g.cs
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\App.g.cs
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.cache
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.lref
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\App.baml
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\MainWindow.baml
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.g.resources
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.Properties.Resources.resources
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.GenerateResource.Cache
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.CoreCompileInputs.cache
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.exe
+C:\Users\EhrmannIngrid\Desktop\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.pdb
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe.config
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\bin\Debug\WpfAppPizza.exe
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\bin\Debug\WpfAppPizza.pdb
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.SuggestedBindingRedirects.cache
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\MainWindow.g.cs
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\App.g.cs
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.cache
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza_MarkupCompile.lref
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\App.baml
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\MainWindow.baml
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.g.resources
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.Properties.Resources.resources
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.GenerateResource.cache
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.CoreCompileInputs.cache
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.exe
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.pdb
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\C#\40_VORLAGE_Pizza\WpfAppPizza\obj\Debug\WpfAppPizza.csproj.AssemblyReference.cache

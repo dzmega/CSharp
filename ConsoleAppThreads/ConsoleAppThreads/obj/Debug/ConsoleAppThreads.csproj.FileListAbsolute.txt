@@ -1,0 +1,8 @@
+H:\C#\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\ConsoleAppThreads.exe.config
+H:\C#\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\ConsoleAppThreads.exe
+H:\C#\ConsoleAppThreads\ConsoleAppThreads\bin\Debug\ConsoleAppThreads.pdb
+H:\C#\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\ConsoleAppThreads.csproj.AssemblyReference.cache
+H:\C#\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\ConsoleAppThreads.csproj.SuggestedBindingRedirects.cache
+H:\C#\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\ConsoleAppThreads.csproj.CoreCompileInputs.cache
+H:\C#\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\ConsoleAppThreads.exe
+H:\C#\ConsoleAppThreads\ConsoleAppThreads\obj\Debug\ConsoleAppThreads.pdb

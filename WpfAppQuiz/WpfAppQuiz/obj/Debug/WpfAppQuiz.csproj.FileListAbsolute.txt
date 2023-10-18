@@ -1,0 +1,16 @@
+H:\C#\WpfAppQuiz\WpfAppQuiz\bin\Debug\WpfAppQuiz.exe.config
+H:\C#\WpfAppQuiz\WpfAppQuiz\bin\Debug\WpfAppQuiz.exe
+H:\C#\WpfAppQuiz\WpfAppQuiz\bin\Debug\WpfAppQuiz.pdb
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\WpfAppQuiz.csproj.SuggestedBindingRedirects.cache
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\MainWindow.g.cs
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\App.g.cs
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\WpfAppQuiz_MarkupCompile.cache
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\WpfAppQuiz_MarkupCompile.lref
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\MainWindow.baml
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\WpfAppQuiz.g.resources
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\WpfAppQuiz.Properties.Resources.resources
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\WpfAppQuiz.csproj.GenerateResource.cache
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\WpfAppQuiz.csproj.CoreCompileInputs.cache
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\WpfAppQuiz.exe
+H:\C#\WpfAppQuiz\WpfAppQuiz\obj\Debug\WpfAppQuiz.pdb

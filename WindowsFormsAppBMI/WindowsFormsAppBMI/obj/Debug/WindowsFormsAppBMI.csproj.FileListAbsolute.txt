@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppBMI\WindowsFormsAppBMI\bin\Debug\WindowsFormsAppBMI.exe.config
+H:\C#\WindowsFormsAppBMI\WindowsFormsAppBMI\bin\Debug\WindowsFormsAppBMI.exe
+H:\C#\WindowsFormsAppBMI\WindowsFormsAppBMI\bin\Debug\WindowsFormsAppBMI.pdb
+H:\C#\WindowsFormsAppBMI\WindowsFormsAppBMI\obj\Debug\WindowsFormsAppBMI.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppBMI\WindowsFormsAppBMI\obj\Debug\WindowsFormsAppBMI.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppBMI\WindowsFormsAppBMI\obj\Debug\WindowsFormsAppBMI.BMIfürMänner.resources
+H:\C#\WindowsFormsAppBMI\WindowsFormsAppBMI\obj\Debug\WindowsFormsAppBMI.Properties.Resources.resources
+H:\C#\WindowsFormsAppBMI\WindowsFormsAppBMI\obj\Debug\WindowsFormsAppBMI.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppBMI\WindowsFormsAppBMI\obj\Debug\WindowsFormsAppBMI.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppBMI\WindowsFormsAppBMI\obj\Debug\WindowsFormsAppBMI.exe
+H:\C#\WindowsFormsAppBMI\WindowsFormsAppBMI\obj\Debug\WindowsFormsAppBMI.pdb

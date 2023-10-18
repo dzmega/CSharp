@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppCollection\WindowsFormsAppCollection\bin\Debug\WindowsFormsAppCollection.exe.config
+H:\C#\WindowsFormsAppCollection\WindowsFormsAppCollection\bin\Debug\WindowsFormsAppCollection.exe
+H:\C#\WindowsFormsAppCollection\WindowsFormsAppCollection\bin\Debug\WindowsFormsAppCollection.pdb
+H:\C#\WindowsFormsAppCollection\WindowsFormsAppCollection\obj\Debug\WindowsFormsAppCollection.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppCollection\WindowsFormsAppCollection\obj\Debug\WindowsFormsAppCollection.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppCollection\WindowsFormsAppCollection\obj\Debug\WindowsFormsAppCollection.listBoxSchüler.resources
+H:\C#\WindowsFormsAppCollection\WindowsFormsAppCollection\obj\Debug\WindowsFormsAppCollection.Properties.Resources.resources
+H:\C#\WindowsFormsAppCollection\WindowsFormsAppCollection\obj\Debug\WindowsFormsAppCollection.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppCollection\WindowsFormsAppCollection\obj\Debug\WindowsFormsAppCollection.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppCollection\WindowsFormsAppCollection\obj\Debug\WindowsFormsAppCollection.exe
+H:\C#\WindowsFormsAppCollection\WindowsFormsAppCollection\obj\Debug\WindowsFormsAppCollection.pdb

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFrage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Frage>
+    <Fragestellung>Mag Frau Plonka Katzen</Fragestellung>
+    <Antworten>
+      <Antwort>
+        <Antwortmoeglichkeit>Ja</Antwortmoeglichkeit>
+        <Richtig>true</Richtig>
+      </Antwort>
+      <Antwort>
+        <Antwortmoeglichkeit>manchmal</Antwortmoeglichkeit>
+        <Richtig>false</Richtig>
+      </Antwort>
+      <Antwort>
+        <Antwortmoeglichkeit>vielleicht</Antwortmoeglichkeit>
+        <Richtig>false</Richtig>
+      </Antwort>
+      <Antwort>
+        <Antwortmoeglichkeit>Nein</Antwortmoeglichkeit>
+        <Richtig>false</Richtig>
+      </Antwort>
+    </Antworten>
+  </Frage>
+  <Frage>
+    <Fragestellung>Was ist Frau Plonkas Klasse</Fragestellung>
+    <Antworten>
+      <Antwort>
+        <Antwortmoeglichkeit>FIA</Antwortmoeglichkeit>
+        <Richtig>false</Richtig>
+      </Antwort>
+      <Antwort>
+        <Antwortmoeglichkeit>FI11</Antwortmoeglichkeit>
+        <Richtig>true</Richtig>
+      </Antwort>
+      <Antwort>
+        <Antwortmoeglichkeit>IK11</Antwortmoeglichkeit>
+        <Richtig>false</Richtig>
+      </Antwort>
+      <Antwort>
+        <Antwortmoeglichkeit>FIS</Antwortmoeglichkeit>
+        <Richtig>false</Richtig>
+      </Antwort>
+    </Antworten>
+  </Frage>
+  <Frage>
+    <Fragestellung>Was ist die beste aller Programmiersprachen</Fragestellung>
+    <Antworten>
+      <Antwort>
+        <Antwortmoeglichkeit>Java</Antwortmoeglichkeit>
+        <Richtig>false</Richtig>
+      </Antwort>
+      <Antwort>
+        <Antwortmoeglichkeit>C#</Antwortmoeglichkeit>
+        <Richtig>true</Richtig>
+      </Antwort>
+      <Antwort>
+        <Antwortmoeglichkeit>PHP</Antwortmoeglichkeit>
+        <Richtig>false</Richtig>
+      </Antwort>
+      <Antwort>
+        <Antwortmoeglichkeit>Python</Antwortmoeglichkeit>
+        <Richtig>false</Richtig>
+      </Antwort>
+    </Antworten>
+  </Frage>
+</ArrayOfFrage>

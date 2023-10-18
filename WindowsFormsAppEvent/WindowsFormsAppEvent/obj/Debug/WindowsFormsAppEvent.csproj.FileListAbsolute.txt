@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppEvent\WindowsFormsAppEvent\bin\Debug\WindowsFormsAppEvent.exe.config
+H:\C#\WindowsFormsAppEvent\WindowsFormsAppEvent\bin\Debug\WindowsFormsAppEvent.exe
+H:\C#\WindowsFormsAppEvent\WindowsFormsAppEvent\bin\Debug\WindowsFormsAppEvent.pdb
+H:\C#\WindowsFormsAppEvent\WindowsFormsAppEvent\obj\Debug\WindowsFormsAppEvent.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppEvent\WindowsFormsAppEvent\obj\Debug\WindowsFormsAppEvent.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppEvent\WindowsFormsAppEvent\obj\Debug\WindowsFormsAppEvent.Form1.resources
+H:\C#\WindowsFormsAppEvent\WindowsFormsAppEvent\obj\Debug\WindowsFormsAppEvent.Properties.Resources.resources
+H:\C#\WindowsFormsAppEvent\WindowsFormsAppEvent\obj\Debug\WindowsFormsAppEvent.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppEvent\WindowsFormsAppEvent\obj\Debug\WindowsFormsAppEvent.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppEvent\WindowsFormsAppEvent\obj\Debug\WindowsFormsAppEvent.exe
+H:\C#\WindowsFormsAppEvent\WindowsFormsAppEvent\obj\Debug\WindowsFormsAppEvent.pdb

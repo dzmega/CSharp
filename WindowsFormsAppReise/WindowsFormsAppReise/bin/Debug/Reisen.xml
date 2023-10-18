@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfReise xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Reise>
+    <AnzahlTeilnehmer>0</AnzahlTeilnehmer>
+    <Bis>2005-05-05T00:00:00</Bis>
+    <MaxTeilnehmer>2</MaxTeilnehmer>
+    <Preis>600</Preis>
+    <LstTeilnehmer />
+    <Von>0001-01-01T00:00:00</Von>
+    <Ziel>Frankreich</Ziel>
+  </Reise>
+  <Reise>
+    <AnzahlTeilnehmer>0</AnzahlTeilnehmer>
+    <Bis>0001-01-01T00:00:00</Bis>
+    <MaxTeilnehmer>0</MaxTeilnehmer>
+    <Preis>300</Preis>
+    <LstTeilnehmer />
+    <Von>0001-01-01T00:00:00</Von>
+    <Ziel>Mailand</Ziel>
+  </Reise>
+  <Reise>
+    <AnzahlTeilnehmer>0</AnzahlTeilnehmer>
+    <Bis>0001-01-01T00:00:00</Bis>
+    <MaxTeilnehmer>0</MaxTeilnehmer>
+    <Preis>770</Preis>
+    <LstTeilnehmer />
+    <Von>0001-01-01T00:00:00</Von>
+    <Ziel>Cran Canaria</Ziel>
+  </Reise>
+  <Reise>
+    <AnzahlTeilnehmer>0</AnzahlTeilnehmer>
+    <Bis>0001-01-01T00:00:00</Bis>
+    <MaxTeilnehmer>0</MaxTeilnehmer>
+    <Preis>150</Preis>
+    <LstTeilnehmer />
+    <Von>0001-01-01T00:00:00</Von>
+    <Ziel>Türkei</Ziel>
+  </Reise>
+  <Reise>
+    <AnzahlTeilnehmer>0</AnzahlTeilnehmer>
+    <Bis>0001-01-01T00:00:00</Bis>
+    <MaxTeilnehmer>0</MaxTeilnehmer>
+    <Preis>1600</Preis>
+    <LstTeilnehmer />
+    <Von>0001-01-01T00:00:00</Von>
+    <Ziel>Brasilien</Ziel>
+  </Reise>
+  <Reise>
+    <AnzahlTeilnehmer>0</AnzahlTeilnehmer>
+    <Bis>0001-01-01T00:00:00</Bis>
+    <MaxTeilnehmer>0</MaxTeilnehmer>
+    <Preis>600</Preis>
+    <LstTeilnehmer />
+    <Von>0001-01-01T00:00:00</Von>
+    <Ziel>Italien</Ziel>
+  </Reise>
+</ArrayOfReise>

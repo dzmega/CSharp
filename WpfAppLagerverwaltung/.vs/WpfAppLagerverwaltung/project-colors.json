@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0acb32eb-57bd-402d-bb0b-55a952eedb41": {
+      "ProjectGuid": "0acb32eb-57bd-402d-bb0b-55a952eedb41",
+      "DisplayName": "WpfAppLagerverwaltung",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

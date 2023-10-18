@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppBrutto-Netto\WindowsFormsAppBrutto-Netto\bin\Debug\WindowsFormsAppBrutto-Netto.exe.config
+H:\C#\WindowsFormsAppBrutto-Netto\WindowsFormsAppBrutto-Netto\bin\Debug\WindowsFormsAppBrutto-Netto.exe
+H:\C#\WindowsFormsAppBrutto-Netto\WindowsFormsAppBrutto-Netto\bin\Debug\WindowsFormsAppBrutto-Netto.pdb
+H:\C#\WindowsFormsAppBrutto-Netto\WindowsFormsAppBrutto-Netto\obj\Debug\WindowsFormsAppBrutto-Netto.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppBrutto-Netto\WindowsFormsAppBrutto-Netto\obj\Debug\WindowsFormsAppBrutto-Netto.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppBrutto-Netto\WindowsFormsAppBrutto-Netto\obj\Debug\WindowsFormsAppBrutto_Netto.Form1.resources
+H:\C#\WindowsFormsAppBrutto-Netto\WindowsFormsAppBrutto-Netto\obj\Debug\WindowsFormsAppBrutto_Netto.Properties.Resources.resources
+H:\C#\WindowsFormsAppBrutto-Netto\WindowsFormsAppBrutto-Netto\obj\Debug\WindowsFormsAppBrutto-Netto.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppBrutto-Netto\WindowsFormsAppBrutto-Netto\obj\Debug\WindowsFormsAppBrutto-Netto.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppBrutto-Netto\WindowsFormsAppBrutto-Netto\obj\Debug\WindowsFormsAppBrutto-Netto.exe
+H:\C#\WindowsFormsAppBrutto-Netto\WindowsFormsAppBrutto-Netto\obj\Debug\WindowsFormsAppBrutto-Netto.pdb

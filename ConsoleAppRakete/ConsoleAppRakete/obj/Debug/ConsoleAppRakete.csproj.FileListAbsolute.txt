@@ -1,0 +1,8 @@
+H:\C#\ConsoleAppRakete\ConsoleAppRakete\bin\Debug\ConsoleAppRakete.exe.config
+H:\C#\ConsoleAppRakete\ConsoleAppRakete\bin\Debug\ConsoleAppRakete.exe
+H:\C#\ConsoleAppRakete\ConsoleAppRakete\bin\Debug\ConsoleAppRakete.pdb
+H:\C#\ConsoleAppRakete\ConsoleAppRakete\obj\Debug\ConsoleAppRakete.csproj.AssemblyReference.cache
+H:\C#\ConsoleAppRakete\ConsoleAppRakete\obj\Debug\ConsoleAppRakete.csproj.SuggestedBindingRedirects.cache
+H:\C#\ConsoleAppRakete\ConsoleAppRakete\obj\Debug\ConsoleAppRakete.csproj.CoreCompileInputs.cache
+H:\C#\ConsoleAppRakete\ConsoleAppRakete\obj\Debug\ConsoleAppRakete.exe
+H:\C#\ConsoleAppRakete\ConsoleAppRakete\obj\Debug\ConsoleAppRakete.pdb

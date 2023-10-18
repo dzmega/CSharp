@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppReise\WindowsFormsAppReise\bin\Debug\WindowsFormsAppReise.exe.config
+H:\C#\WindowsFormsAppReise\WindowsFormsAppReise\bin\Debug\WindowsFormsAppReise.exe
+H:\C#\WindowsFormsAppReise\WindowsFormsAppReise\bin\Debug\WindowsFormsAppReise.pdb
+H:\C#\WindowsFormsAppReise\WindowsFormsAppReise\obj\Debug\WindowsFormsAppReise.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppReise\WindowsFormsAppReise\obj\Debug\WindowsFormsAppReise.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppReise\WindowsFormsAppReise\obj\Debug\WindowsFormsAppReise.Form1.resources
+H:\C#\WindowsFormsAppReise\WindowsFormsAppReise\obj\Debug\WindowsFormsAppReise.Properties.Resources.resources
+H:\C#\WindowsFormsAppReise\WindowsFormsAppReise\obj\Debug\WindowsFormsAppReise.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppReise\WindowsFormsAppReise\obj\Debug\WindowsFormsAppReise.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppReise\WindowsFormsAppReise\obj\Debug\WindowsFormsAppReise.exe
+H:\C#\WindowsFormsAppReise\WindowsFormsAppReise\obj\Debug\WindowsFormsAppReise.pdb

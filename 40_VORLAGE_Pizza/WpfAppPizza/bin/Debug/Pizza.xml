@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPizza xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+			   xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pizza>
+    <ID>1</ID>
+    <Bezeichnung>Käse Klein</Bezeichnung>
+    <Preis>7.00</Preis>
+  </Pizza>
+  <Pizza>
+    <ID>2</ID>
+    <Bezeichnung>Salami Klein</Bezeichnung>
+    <Preis>7.20</Preis>
+  </Pizza>
+  <Pizza>
+    <ID>3</ID>
+    <Bezeichnung>Scharfe Salami Klein</Bezeichnung>
+    <Preis>7.20</Preis>
+  </Pizza>
+  <Pizza>
+    <ID>4</ID>
+    <Bezeichnung>Vorderschinken Klein</Bezeichnung>
+    <Preis>7.20</Preis>
+  </Pizza>
+  <Pizza>
+    <ID>5</ID>
+    <Bezeichnung>Hackfleisch Klein</Bezeichnung>
+    <Preis>7.20</Preis>
+  </Pizza>
+  <Pizza>
+    <ID>6</ID>
+    <Bezeichnung>Champignon Klein</Bezeichnung>
+    <Preis>7.20</Preis>
+  </Pizza>
+</ArrayOfPizza>

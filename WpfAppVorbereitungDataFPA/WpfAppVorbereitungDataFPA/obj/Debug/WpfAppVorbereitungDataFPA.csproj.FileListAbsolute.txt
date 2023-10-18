@@ -1,0 +1,16 @@
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\bin\Debug\WpfAppVorbereitungDataFPA.exe.config
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\bin\Debug\WpfAppVorbereitungDataFPA.exe
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\bin\Debug\WpfAppVorbereitungDataFPA.pdb
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\WpfAppVorbereitungDataFPA.csproj.SuggestedBindingRedirects.cache
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\MainWindow.g.cs
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\App.g.cs
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\WpfAppVorbereitungDataFPA_MarkupCompile.cache
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\WpfAppVorbereitungDataFPA_MarkupCompile.lref
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\MainWindow.baml
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\WpfAppVorbereitungDataFPA.g.resources
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\WpfAppVorbereitungDataFPA.Properties.Resources.resources
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\WpfAppVorbereitungDataFPA.csproj.GenerateResource.cache
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\WpfAppVorbereitungDataFPA.csproj.CoreCompileInputs.cache
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\WpfAppVorbereitungDataFPA.exe
+H:\C#\WpfAppVorbereitungDataFPA\WpfAppVorbereitungDataFPA\obj\Debug\WpfAppVorbereitungDataFPA.pdb

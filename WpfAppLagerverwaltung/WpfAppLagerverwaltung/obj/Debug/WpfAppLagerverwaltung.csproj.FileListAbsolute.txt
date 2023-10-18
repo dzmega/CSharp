@@ -1,0 +1,17 @@
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\bin\Debug\WpfAppLagerverwaltung.exe.config
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\bin\Debug\WpfAppLagerverwaltung.exe
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\bin\Debug\WpfAppLagerverwaltung.pdb
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\WpfAppLagerverwaltung.csproj.SuggestedBindingRedirects.cache
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\MainWindow.g.cs
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\App.g.cs
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\WpfAppLagerverwaltung_MarkupCompile.cache
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\WpfAppLagerverwaltung_MarkupCompile.lref
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\MainWindow.baml
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\WpfAppLagerverwaltung.g.resources
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\WpfAppLagerverwaltung.Properties.Resources.resources
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\WpfAppLagerverwaltung.csproj.GenerateResource.cache
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\WpfAppLagerverwaltung.csproj.CoreCompileInputs.cache
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\WpfAppLagerverwaltung.exe
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\WpfAppLagerverwaltung.pdb
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\C#\WpfAppLagerverwaltung\WpfAppLagerverwaltung\obj\Debug\WpfAppLagerverwaltung.csproj.AssemblyReference.cache

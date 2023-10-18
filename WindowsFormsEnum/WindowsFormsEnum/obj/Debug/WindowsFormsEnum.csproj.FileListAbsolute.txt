@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsEnum\WindowsFormsEnum\bin\Debug\WindowsFormsEnum.exe.config
+H:\C#\WindowsFormsEnum\WindowsFormsEnum\bin\Debug\WindowsFormsEnum.exe
+H:\C#\WindowsFormsEnum\WindowsFormsEnum\bin\Debug\WindowsFormsEnum.pdb
+H:\C#\WindowsFormsEnum\WindowsFormsEnum\obj\Debug\WindowsFormsEnum.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsEnum\WindowsFormsEnum\obj\Debug\WindowsFormsEnum.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsEnum\WindowsFormsEnum\obj\Debug\WindowsFormsEnum.Form1.resources
+H:\C#\WindowsFormsEnum\WindowsFormsEnum\obj\Debug\WindowsFormsEnum.Properties.Resources.resources
+H:\C#\WindowsFormsEnum\WindowsFormsEnum\obj\Debug\WindowsFormsEnum.csproj.GenerateResource.cache
+H:\C#\WindowsFormsEnum\WindowsFormsEnum\obj\Debug\WindowsFormsEnum.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsEnum\WindowsFormsEnum\obj\Debug\WindowsFormsEnum.exe
+H:\C#\WindowsFormsEnum\WindowsFormsEnum\obj\Debug\WindowsFormsEnum.pdb

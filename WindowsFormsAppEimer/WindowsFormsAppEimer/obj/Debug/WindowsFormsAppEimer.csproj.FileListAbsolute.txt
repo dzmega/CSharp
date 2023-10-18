@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppEimer\WindowsFormsAppEimer\bin\Debug\WindowsFormsAppEimer.exe.config
+H:\C#\WindowsFormsAppEimer\WindowsFormsAppEimer\bin\Debug\WindowsFormsAppEimer.exe
+H:\C#\WindowsFormsAppEimer\WindowsFormsAppEimer\bin\Debug\WindowsFormsAppEimer.pdb
+H:\C#\WindowsFormsAppEimer\WindowsFormsAppEimer\obj\Debug\WindowsFormsAppEimer.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppEimer\WindowsFormsAppEimer\obj\Debug\WindowsFormsAppEimer.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppEimer\WindowsFormsAppEimer\obj\Debug\WindowsFormsAppEimer.Form.resources
+H:\C#\WindowsFormsAppEimer\WindowsFormsAppEimer\obj\Debug\WindowsFormsAppEimer.Properties.Resources.resources
+H:\C#\WindowsFormsAppEimer\WindowsFormsAppEimer\obj\Debug\WindowsFormsAppEimer.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppEimer\WindowsFormsAppEimer\obj\Debug\WindowsFormsAppEimer.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppEimer\WindowsFormsAppEimer\obj\Debug\WindowsFormsAppEimer.exe
+H:\C#\WindowsFormsAppEimer\WindowsFormsAppEimer\obj\Debug\WindowsFormsAppEimer.pdb

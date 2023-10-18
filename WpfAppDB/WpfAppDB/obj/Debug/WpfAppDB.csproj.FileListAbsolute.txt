@@ -1,0 +1,17 @@
+H:\C#\WpfAppDB\WpfAppDB\bin\Debug\WpfAppDB.exe.config
+H:\C#\WpfAppDB\WpfAppDB\bin\Debug\WpfAppDB.exe
+H:\C#\WpfAppDB\WpfAppDB\bin\Debug\WpfAppDB.pdb
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\WpfAppDB.csproj.AssemblyReference.cache
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\WpfAppDB.csproj.SuggestedBindingRedirects.cache
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\MainWindow.g.cs
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\App.g.cs
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\WpfAppDB_MarkupCompile.cache
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\WpfAppDB_MarkupCompile.lref
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\MainWindow.baml
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\WpfAppDB.g.resources
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\WpfAppDB.Properties.Resources.resources
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\WpfAppDB.csproj.GenerateResource.cache
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\WpfAppDB.csproj.CoreCompileInputs.cache
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\WpfAppDB.exe
+H:\C#\WpfAppDB\WpfAppDB\obj\Debug\WpfAppDB.pdb

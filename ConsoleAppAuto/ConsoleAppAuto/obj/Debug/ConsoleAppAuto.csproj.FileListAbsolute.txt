@@ -1,0 +1,8 @@
+H:\C#\ConsoleAppAuto\ConsoleAppAuto\bin\Debug\ConsoleAppAuto.exe.config
+H:\C#\ConsoleAppAuto\ConsoleAppAuto\bin\Debug\ConsoleAppAuto.exe
+H:\C#\ConsoleAppAuto\ConsoleAppAuto\bin\Debug\ConsoleAppAuto.pdb
+H:\C#\ConsoleAppAuto\ConsoleAppAuto\obj\Debug\ConsoleAppAuto.csproj.AssemblyReference.cache
+H:\C#\ConsoleAppAuto\ConsoleAppAuto\obj\Debug\ConsoleAppAuto.csproj.SuggestedBindingRedirects.cache
+H:\C#\ConsoleAppAuto\ConsoleAppAuto\obj\Debug\ConsoleAppAuto.csproj.CoreCompileInputs.cache
+H:\C#\ConsoleAppAuto\ConsoleAppAuto\obj\Debug\ConsoleAppAuto.exe
+H:\C#\ConsoleAppAuto\ConsoleAppAuto\obj\Debug\ConsoleAppAuto.pdb

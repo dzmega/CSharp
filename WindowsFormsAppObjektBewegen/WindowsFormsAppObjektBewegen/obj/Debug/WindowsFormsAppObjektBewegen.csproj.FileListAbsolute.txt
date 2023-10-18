@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppObjektBewegen\WindowsFormsAppObjektBewegen\bin\Debug\WindowsFormsAppObjektBewegen.exe.config
+H:\C#\WindowsFormsAppObjektBewegen\WindowsFormsAppObjektBewegen\bin\Debug\WindowsFormsAppObjektBewegen.exe
+H:\C#\WindowsFormsAppObjektBewegen\WindowsFormsAppObjektBewegen\bin\Debug\WindowsFormsAppObjektBewegen.pdb
+H:\C#\WindowsFormsAppObjektBewegen\WindowsFormsAppObjektBewegen\obj\Debug\WindowsFormsAppObjektBewegen.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppObjektBewegen\WindowsFormsAppObjektBewegen\obj\Debug\WindowsFormsAppObjektBewegen.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppObjektBewegen\WindowsFormsAppObjektBewegen\obj\Debug\WindowsFormsAppObjektBewegen.Form1.resources
+H:\C#\WindowsFormsAppObjektBewegen\WindowsFormsAppObjektBewegen\obj\Debug\WindowsFormsAppObjektBewegen.Properties.Resources.resources
+H:\C#\WindowsFormsAppObjektBewegen\WindowsFormsAppObjektBewegen\obj\Debug\WindowsFormsAppObjektBewegen.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppObjektBewegen\WindowsFormsAppObjektBewegen\obj\Debug\WindowsFormsAppObjektBewegen.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppObjektBewegen\WindowsFormsAppObjektBewegen\obj\Debug\WindowsFormsAppObjektBewegen.exe
+H:\C#\WindowsFormsAppObjektBewegen\WindowsFormsAppObjektBewegen\obj\Debug\WindowsFormsAppObjektBewegen.pdb

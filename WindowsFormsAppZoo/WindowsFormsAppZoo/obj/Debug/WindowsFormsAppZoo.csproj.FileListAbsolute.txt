@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppZoo\WindowsFormsAppZoo\bin\Debug\WindowsFormsAppZoo.exe.config
+H:\C#\WindowsFormsAppZoo\WindowsFormsAppZoo\bin\Debug\WindowsFormsAppZoo.exe
+H:\C#\WindowsFormsAppZoo\WindowsFormsAppZoo\bin\Debug\WindowsFormsAppZoo.pdb
+H:\C#\WindowsFormsAppZoo\WindowsFormsAppZoo\obj\Debug\WindowsFormsAppZoo.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppZoo\WindowsFormsAppZoo\obj\Debug\WindowsFormsAppZoo.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppZoo\WindowsFormsAppZoo\obj\Debug\WindowsFormsAppZoo.Form1.resources
+H:\C#\WindowsFormsAppZoo\WindowsFormsAppZoo\obj\Debug\WindowsFormsAppZoo.Properties.Resources.resources
+H:\C#\WindowsFormsAppZoo\WindowsFormsAppZoo\obj\Debug\WindowsFormsAppZoo.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppZoo\WindowsFormsAppZoo\obj\Debug\WindowsFormsAppZoo.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppZoo\WindowsFormsAppZoo\obj\Debug\WindowsFormsAppZoo.exe
+H:\C#\WindowsFormsAppZoo\WindowsFormsAppZoo\obj\Debug\WindowsFormsAppZoo.pdb

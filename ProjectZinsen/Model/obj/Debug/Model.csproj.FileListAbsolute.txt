@@ -1,0 +1,6 @@
+H:\C#\ProjectZinsen\Model\bin\Debug\Model.dll
+H:\C#\ProjectZinsen\Model\bin\Debug\Model.pdb
+H:\C#\ProjectZinsen\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+H:\C#\ProjectZinsen\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+H:\C#\ProjectZinsen\Model\obj\Debug\Model.dll
+H:\C#\ProjectZinsen\Model\obj\Debug\Model.pdb

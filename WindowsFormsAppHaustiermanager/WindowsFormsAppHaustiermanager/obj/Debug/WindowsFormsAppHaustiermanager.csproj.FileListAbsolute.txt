@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppHaustiermanager\WindowsFormsAppHaustiermanager\bin\Debug\WindowsFormsAppHaustiermanager.exe.config
+H:\C#\WindowsFormsAppHaustiermanager\WindowsFormsAppHaustiermanager\bin\Debug\WindowsFormsAppHaustiermanager.exe
+H:\C#\WindowsFormsAppHaustiermanager\WindowsFormsAppHaustiermanager\bin\Debug\WindowsFormsAppHaustiermanager.pdb
+H:\C#\WindowsFormsAppHaustiermanager\WindowsFormsAppHaustiermanager\obj\Debug\WindowsFormsAppHaustiermanager.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppHaustiermanager\WindowsFormsAppHaustiermanager\obj\Debug\WindowsFormsAppHaustiermanager.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppHaustiermanager\WindowsFormsAppHaustiermanager\obj\Debug\WindowsFormsAppHaustiermanager.Form1.resources
+H:\C#\WindowsFormsAppHaustiermanager\WindowsFormsAppHaustiermanager\obj\Debug\WindowsFormsAppHaustiermanager.Properties.Resources.resources
+H:\C#\WindowsFormsAppHaustiermanager\WindowsFormsAppHaustiermanager\obj\Debug\WindowsFormsAppHaustiermanager.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppHaustiermanager\WindowsFormsAppHaustiermanager\obj\Debug\WindowsFormsAppHaustiermanager.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppHaustiermanager\WindowsFormsAppHaustiermanager\obj\Debug\WindowsFormsAppHaustiermanager.exe
+H:\C#\WindowsFormsAppHaustiermanager\WindowsFormsAppHaustiermanager\obj\Debug\WindowsFormsAppHaustiermanager.pdb

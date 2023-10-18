@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfAppXAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppXAML"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <local:Kommentar />
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition Height="auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Name" />
+        <TextBlock Text="E-Mail" Grid.Row="1"/>
+        <TextBlock Text="Comment" Grid.Row="2"/>
+        <TextBox Grid.Column="1" Margin="20" Text="{Binding Name}" x:Name="textboxname" />
+        <TextBox Grid.Column="1" Grid.Row="1" Margin="20" Text="{Binding ElementName=comboboxAnliegen, Path=SelectedItem.Content}" />
+        <ListBox Grid.Column="1" Grid.Row="2" Margin="20"/>
+        <Button Content="Send" Grid.Column="1" Grid.Row="3" Margin="20"/>
+        <ComboBox x:Name="comboboxAnliegen" Grid.Column="1" Grid.Row="2" Margin="20">
+            <ComboBoxItem>Computer</ComboBoxItem>
+            <ComboBoxItem>Bildschirm</ComboBoxItem>
+            <ComboBoxItem>Software</ComboBoxItem>
+        </ComboBox>
+    </Grid>
+</Window>

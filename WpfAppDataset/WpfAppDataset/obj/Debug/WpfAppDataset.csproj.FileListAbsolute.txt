@@ -1,0 +1,17 @@
+H:\C#\WpfAppDataset\WpfAppDataset\bin\Debug\WpfAppDataset.exe.config
+H:\C#\WpfAppDataset\WpfAppDataset\bin\Debug\WpfAppDataset.exe
+H:\C#\WpfAppDataset\WpfAppDataset\bin\Debug\WpfAppDataset.pdb
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\WpfAppDataset.csproj.SuggestedBindingRedirects.cache
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\MainWindow.g.cs
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\App.g.cs
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\WpfAppDataset_MarkupCompile.cache
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\WpfAppDataset_MarkupCompile.lref
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\MainWindow.baml
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\WpfAppDataset.g.resources
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\WpfAppDataset.Properties.Resources.resources
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\WpfAppDataset.csproj.GenerateResource.cache
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\WpfAppDataset.csproj.CoreCompileInputs.cache
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\WpfAppDataset.exe
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\WpfAppDataset.pdb
+H:\C#\WpfAppDataset\WpfAppDataset\obj\Debug\WpfAppDataset.csproj.AssemblyReference.cache

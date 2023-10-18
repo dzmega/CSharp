@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppAutos\WindowsFormsAppAutos\bin\Debug\WindowsFormsAppAutos.exe.config
+H:\C#\WindowsFormsAppAutos\WindowsFormsAppAutos\bin\Debug\WindowsFormsAppAutos.exe
+H:\C#\WindowsFormsAppAutos\WindowsFormsAppAutos\bin\Debug\WindowsFormsAppAutos.pdb
+H:\C#\WindowsFormsAppAutos\WindowsFormsAppAutos\obj\Debug\WindowsFormsAppAutos.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppAutos\WindowsFormsAppAutos\obj\Debug\WindowsFormsAppAutos.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppAutos\WindowsFormsAppAutos\obj\Debug\WindowsFormsAppAutos.Form1.resources
+H:\C#\WindowsFormsAppAutos\WindowsFormsAppAutos\obj\Debug\WindowsFormsAppAutos.Properties.Resources.resources
+H:\C#\WindowsFormsAppAutos\WindowsFormsAppAutos\obj\Debug\WindowsFormsAppAutos.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppAutos\WindowsFormsAppAutos\obj\Debug\WindowsFormsAppAutos.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppAutos\WindowsFormsAppAutos\obj\Debug\WindowsFormsAppAutos.exe
+H:\C#\WindowsFormsAppAutos\WindowsFormsAppAutos\obj\Debug\WindowsFormsAppAutos.pdb

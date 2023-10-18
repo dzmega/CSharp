@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKunde xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kunde>
+    <Kundennr>100</Kundennr>
+    <Nachname>Feineis</Nachname>
+    <Vorname>Margot</Vorname>
+	<Email>mfeineisweb.de</Email>
+  </Kunde>
+  <Kunde>
+    <Kundennr>200</Kundennr>
+    <Nachname>Behr</Nachname>
+    <Vorname>Hans</Vorname>
+	<Email>hans56@net.com</Email>
+  </Kunde>
+  <Kunde>
+    <Kundennr>300</Kundennr>
+    <Nachname>Ziegler</Nachname>
+    <Vorname>Peter</Vorname>
+	<Email>peter@ziegler.de</Email>
+  </Kunde>
+</ArrayOfKunde>

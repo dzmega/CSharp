@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Sonstige Dateien",
+      "ColorIndex": -1
+    },
+    "59e6a1ef-c45f-4248-9201-63a449522473": {
+      "ProjectGuid": "59e6a1ef-c45f-4248-9201-63a449522473",
+      "DisplayName": "WpfAppPizza",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

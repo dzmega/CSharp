@@ -1,0 +1,8 @@
+H:\C#\ConsoleAppOO\ConsoleAppOO\bin\Debug\ConsoleAppOO.exe.config
+H:\C#\ConsoleAppOO\ConsoleAppOO\bin\Debug\ConsoleAppOO.exe
+H:\C#\ConsoleAppOO\ConsoleAppOO\bin\Debug\ConsoleAppOO.pdb
+H:\C#\ConsoleAppOO\ConsoleAppOO\obj\Debug\ConsoleAppOO.csproj.AssemblyReference.cache
+H:\C#\ConsoleAppOO\ConsoleAppOO\obj\Debug\ConsoleAppOO.csproj.SuggestedBindingRedirects.cache
+H:\C#\ConsoleAppOO\ConsoleAppOO\obj\Debug\ConsoleAppOO.csproj.CoreCompileInputs.cache
+H:\C#\ConsoleAppOO\ConsoleAppOO\obj\Debug\ConsoleAppOO.exe
+H:\C#\ConsoleAppOO\ConsoleAppOO\obj\Debug\ConsoleAppOO.pdb

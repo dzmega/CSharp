@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fec7021d-8bc6-4af6-82f7-a7f5712acd6d": {
+      "ProjectGuid": "fec7021d-8bc6-4af6-82f7-a7f5712acd6d",
+      "DisplayName": "WpfAppDataset",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

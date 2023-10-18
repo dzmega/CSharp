@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppPokemon\WindowsFormsAppPokemon\bin\Debug\WindowsFormsAppPokemon.exe.config
+H:\C#\WindowsFormsAppPokemon\WindowsFormsAppPokemon\bin\Debug\WindowsFormsAppPokemon.exe
+H:\C#\WindowsFormsAppPokemon\WindowsFormsAppPokemon\bin\Debug\WindowsFormsAppPokemon.pdb
+H:\C#\WindowsFormsAppPokemon\WindowsFormsAppPokemon\obj\Debug\WindowsFormsAppPokemon.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppPokemon\WindowsFormsAppPokemon\obj\Debug\WindowsFormsAppPokemon.Form1.resources
+H:\C#\WindowsFormsAppPokemon\WindowsFormsAppPokemon\obj\Debug\WindowsFormsAppPokemon.Properties.Resources.resources
+H:\C#\WindowsFormsAppPokemon\WindowsFormsAppPokemon\obj\Debug\WindowsFormsAppPokemon.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppPokemon\WindowsFormsAppPokemon\obj\Debug\WindowsFormsAppPokemon.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppPokemon\WindowsFormsAppPokemon\obj\Debug\WindowsFormsAppPokemon.exe
+H:\C#\WindowsFormsAppPokemon\WindowsFormsAppPokemon\obj\Debug\WindowsFormsAppPokemon.pdb
+H:\C#\WindowsFormsAppPokemon\WindowsFormsAppPokemon\obj\Debug\WindowsFormsAppPokemon.csproj.AssemblyReference.cache

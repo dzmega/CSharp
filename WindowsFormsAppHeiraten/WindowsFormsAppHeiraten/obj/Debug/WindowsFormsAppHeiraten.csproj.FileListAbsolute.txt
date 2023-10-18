@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppHeiraten\WindowsFormsAppHeiraten\bin\Debug\WindowsFormsAppHeiraten.exe.config
+H:\C#\WindowsFormsAppHeiraten\WindowsFormsAppHeiraten\bin\Debug\WindowsFormsAppHeiraten.exe
+H:\C#\WindowsFormsAppHeiraten\WindowsFormsAppHeiraten\bin\Debug\WindowsFormsAppHeiraten.pdb
+H:\C#\WindowsFormsAppHeiraten\WindowsFormsAppHeiraten\obj\Debug\WindowsFormsAppHeiraten.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppHeiraten\WindowsFormsAppHeiraten\obj\Debug\WindowsFormsAppHeiraten.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppHeiraten\WindowsFormsAppHeiraten\obj\Debug\WindowsFormsAppHeiraten.Form1.resources
+H:\C#\WindowsFormsAppHeiraten\WindowsFormsAppHeiraten\obj\Debug\WindowsFormsAppHeiraten.Properties.Resources.resources
+H:\C#\WindowsFormsAppHeiraten\WindowsFormsAppHeiraten\obj\Debug\WindowsFormsAppHeiraten.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppHeiraten\WindowsFormsAppHeiraten\obj\Debug\WindowsFormsAppHeiraten.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppHeiraten\WindowsFormsAppHeiraten\obj\Debug\WindowsFormsAppHeiraten.exe
+H:\C#\WindowsFormsAppHeiraten\WindowsFormsAppHeiraten\obj\Debug\WindowsFormsAppHeiraten.pdb

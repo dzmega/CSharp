@@ -1,0 +1,21 @@
+1;Fotolabor Farber;Waldstraße 119;67444;Worms;(06241)102222
+2;Kaufhaus Treukauf;Langgasse 20;65778;Wiesbaden;(0611 )566666
+3;Schulze AG;Dorfplatz 50 A;55431;Mainz;(06131)201030
+4;Chemie-Fabrik ODN;Von-Schuhmann-Straße 120;55600;Mainz;(06131)333444
+5;Fliesen-Mannich;Ingelheimer Landstraße 12;64529;Altenheim;(06130)655555
+6;Tambura GmbH;Hintergasse 12;63987;Wackenhausen;(05051)1212
+7;Computer Felz;Wilhelmstraße 40;65911;Wiesbaden;(0611 )454545
+8;Zahnlabor Flemming;Kantheimer Straße 5;54181;Kantheim;(03569)723633
+9;Autohaus Koblenz;Bahnhofstraße 30;55271;Eckenreiher;(04999)98111
+10;Stadtkrankenhaus Wiesbaden;Thomas-Mann-Straße 98;65300;Wiesbaden;(0611 )3598614
+11;Reisebüro Fahrinsland;Mühlheimer Weg 3;52898;Landbergheim;(03111)7777
+12;Main-Zeitung KG;Leo-Kirch-Allee 45;65292;Wiesbaden;(0611 )3516978
+13;Saft-Industrie Dr. Noch;Mönchstraße 23;56298;Haferhofen;(06780)112222
+14;Celan AG;Mainzer Straße 12;64381;Pinsenheim;(08922)59999
+15;Bücherei Klaus;Kappelgasse 16;65193;Wiesbaden;(06111)444111
+16;Guterpack KG;Große Bleiche 12;53002;Mainz;(06131)123456
+17;Kloster Hohenstein;Auf dem Berg 1;65193;Wiesbaden;(06119)666363
+18;Kreditinstitut SRG;Vordergasse 6;54181;Kantheim;(03569)987654
+19;Kleinmann & Co.;Wasserweg 4;64529;Altenheim;(06130)756321
+20;BASIS und Partner;Hauptstraße 38;55271;Eckenreiher;(04999)832147
+21;Porzellan Kracht;Südliche Landstraße 11;65193;Wiesbaden;(06119)1556789

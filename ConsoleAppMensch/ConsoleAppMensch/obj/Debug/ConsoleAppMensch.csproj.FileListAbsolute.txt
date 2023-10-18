@@ -1,0 +1,8 @@
+H:\C#\ConsoleAppMensch\ConsoleAppMensch\bin\Debug\ConsoleAppMensch.exe.config
+H:\C#\ConsoleAppMensch\ConsoleAppMensch\bin\Debug\ConsoleAppMensch.exe
+H:\C#\ConsoleAppMensch\ConsoleAppMensch\bin\Debug\ConsoleAppMensch.pdb
+H:\C#\ConsoleAppMensch\ConsoleAppMensch\obj\Debug\ConsoleAppMensch.csproj.AssemblyReference.cache
+H:\C#\ConsoleAppMensch\ConsoleAppMensch\obj\Debug\ConsoleAppMensch.csproj.SuggestedBindingRedirects.cache
+H:\C#\ConsoleAppMensch\ConsoleAppMensch\obj\Debug\ConsoleAppMensch.csproj.CoreCompileInputs.cache
+H:\C#\ConsoleAppMensch\ConsoleAppMensch\obj\Debug\ConsoleAppMensch.exe
+H:\C#\ConsoleAppMensch\ConsoleAppMensch\obj\Debug\ConsoleAppMensch.pdb

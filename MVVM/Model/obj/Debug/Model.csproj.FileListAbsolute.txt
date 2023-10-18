@@ -1,0 +1,5 @@
+H:\C#\MVVM\Model\bin\Debug\Model.dll
+H:\C#\MVVM\Model\bin\Debug\Model.pdb
+H:\C#\MVVM\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+H:\C#\MVVM\Model\obj\Debug\Model.dll
+H:\C#\MVVM\Model\obj\Debug\Model.pdb

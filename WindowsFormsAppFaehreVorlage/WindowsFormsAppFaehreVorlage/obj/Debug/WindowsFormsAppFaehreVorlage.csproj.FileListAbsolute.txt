@@ -1,0 +1,9 @@
+C:\Users\Katrin\Dropbox\Katrin_Schule\c#\4.2Vererbung\WindowsFormsAppFaehreVorlage\WindowsFormsAppFaehreVorlage\bin\Debug\WindowsFormsAppFaehreVorlage.exe.config
+C:\Users\Katrin\Dropbox\Katrin_Schule\c#\4.2Vererbung\WindowsFormsAppFaehreVorlage\WindowsFormsAppFaehreVorlage\obj\Debug\WindowsFormsAppFaehreVorlage.csprojResolveAssemblyReference.cache
+C:\Users\Katrin\Dropbox\Katrin_Schule\c#\4.2Vererbung\WindowsFormsAppFaehreVorlage\WindowsFormsAppFaehreVorlage\obj\Debug\WindowsFormsAppFaehreVorlage.FormFaehre.resources
+C:\Users\Katrin\Dropbox\Katrin_Schule\c#\4.2Vererbung\WindowsFormsAppFaehreVorlage\WindowsFormsAppFaehreVorlage\obj\Debug\WindowsFormsAppFaehreVorlage.Properties.Resources.resources
+C:\Users\Katrin\Dropbox\Katrin_Schule\c#\4.2Vererbung\WindowsFormsAppFaehreVorlage\WindowsFormsAppFaehreVorlage\obj\Debug\WindowsFormsAppFaehreVorlage.csproj.GenerateResource.Cache
+C:\Users\Katrin\Dropbox\Katrin_Schule\c#\4.2Vererbung\WindowsFormsAppFaehreVorlage\WindowsFormsAppFaehreVorlage\bin\Debug\WindowsFormsAppFaehreVorlage.exe
+C:\Users\Katrin\Dropbox\Katrin_Schule\c#\4.2Vererbung\WindowsFormsAppFaehreVorlage\WindowsFormsAppFaehreVorlage\bin\Debug\WindowsFormsAppFaehreVorlage.pdb
+C:\Users\Katrin\Dropbox\Katrin_Schule\c#\4.2Vererbung\WindowsFormsAppFaehreVorlage\WindowsFormsAppFaehreVorlage\obj\Debug\WindowsFormsAppFaehreVorlage.exe
+C:\Users\Katrin\Dropbox\Katrin_Schule\c#\4.2Vererbung\WindowsFormsAppFaehreVorlage\WindowsFormsAppFaehreVorlage\obj\Debug\WindowsFormsAppFaehreVorlage.pdb

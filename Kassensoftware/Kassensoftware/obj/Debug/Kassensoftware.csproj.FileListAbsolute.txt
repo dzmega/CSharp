@@ -1,0 +1,8 @@
+H:\C#\Kassensoftware\Kassensoftware\bin\Debug\Kassensoftware.exe.config
+H:\C#\Kassensoftware\Kassensoftware\bin\Debug\Kassensoftware.exe
+H:\C#\Kassensoftware\Kassensoftware\bin\Debug\Kassensoftware.pdb
+H:\C#\Kassensoftware\Kassensoftware\obj\Debug\Kassensoftware.csproj.AssemblyReference.cache
+H:\C#\Kassensoftware\Kassensoftware\obj\Debug\Kassensoftware.csproj.SuggestedBindingRedirects.cache
+H:\C#\Kassensoftware\Kassensoftware\obj\Debug\Kassensoftware.csproj.CoreCompileInputs.cache
+H:\C#\Kassensoftware\Kassensoftware\obj\Debug\Kassensoftware.exe
+H:\C#\Kassensoftware\Kassensoftware\obj\Debug\Kassensoftware.pdb

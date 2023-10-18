@@ -1,0 +1,17 @@
+H:\C#\WpfAppXAML\WpfAppXAML\bin\Debug\WpfAppXAML.exe.config
+H:\C#\WpfAppXAML\WpfAppXAML\bin\Debug\WpfAppXAML.exe
+H:\C#\WpfAppXAML\WpfAppXAML\bin\Debug\WpfAppXAML.pdb
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\WpfAppXAML.csproj.AssemblyReference.cache
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\WpfAppXAML.csproj.SuggestedBindingRedirects.cache
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\MainWindow.g.cs
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\App.g.cs
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\WpfAppXAML_MarkupCompile.cache
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\WpfAppXAML_MarkupCompile.lref
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\MainWindow.baml
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\WpfAppXAML.g.resources
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\WpfAppXAML.Properties.Resources.resources
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\WpfAppXAML.csproj.GenerateResource.cache
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\WpfAppXAML.csproj.CoreCompileInputs.cache
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\WpfAppXAML.exe
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\WpfAppXAML.pdb
+H:\C#\WpfAppXAML\WpfAppXAML\obj\Debug\GeneratedInternalTypeHelper.g.cs

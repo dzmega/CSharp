@@ -1,0 +1,75 @@
+﻿<Window x:Class="WpfAppKurs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppKurs"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.DataContext>
+        <local:Verwaltung />
+    </Window.DataContext>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="Anzeigen" Content="Daten anzeigen" FontSize="21" Grid.ColumnSpan="2" Margin="20" Click="Anzeigen_Click"/>
+        <GroupBox Header="Kurse" Grid.Row="1" Height="200">
+            <StackPanel Orientation="Vertical">
+                <ComboBox x:Name="BoxKurs" Height="20" ItemsSource="{Binding Kurse}"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                    <TextBlock Text="ID" Width="100" Margin="10"/>
+                    <TextBox x:Name="txtKursId" Width="200" Margin="10" Text="{Binding ElementName=BoxKurs, Path=SelectedItem.Id}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Bezeichnung" Width="100" Margin="10"/>
+                    <TextBox x:Name="txtKursBezeichnung" Width="200" Margin="10" Text="{Binding ElementName=BoxKurs, Path=SelectedItem.Bezeichnung}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Datum" Width="100" Margin="10"/>
+                    <TextBox x:Name="txtDatum" Width="200" Margin="10" Text="{Binding ElementName=BoxKurs, Path=SelectedItem.Datum}"/>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+        
+        <GroupBox Header="Teilnehmer" Grid.Row="1" Grid.Column="1" Height="200">
+            <StackPanel Orientation="Vertical">
+                <ComboBox x:Name="BoxTeilnehmer" Height="20" ItemsSource="{Binding ElementName=BoxKurs, Path=SelectedItem.Teilnehmer}"/>
+
+                <StackPanel Orientation="Horizontal" Margin="0,5,0,0">
+                    <TextBlock Text="ID" Width="100" Margin="10"/>
+                    <TextBox x:Name="txtTeilnehmerId" Width="200" Margin="10" Text="{Binding ElementName=BoxTeilnehmer, Path=SelectedItem.Id}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Vorname" Width="100" Margin="10"/>
+                    <TextBox x:Name="txtVorname" Width="200" Margin="10" Text="{Binding ElementName=BoxTeilnehmer, Path=SelectedItem.Vorname}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Nachname" Width="100" Margin="10"/>
+                    <TextBox x:Name="txtNachname" Width="200" Margin="10" Text="{Binding ElementName=BoxTeilnehmer, Path=SelectedItem.Nachname}"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Email" Width="100" Margin="10"/>
+                    <TextBox x:Name="txtEmail" Width="200" Margin="10" Text="{Binding ElementName=BoxTeilnehmer, Path=SelectedItem.Email}"/>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+        <Button Grid.Column="0" Grid.Row="2" x:Name="Kursxml" Content="Kurs.xml" Margin="20" Click="Kursxml_Click"/>
+        <Button Grid.Column="1" Grid.Row="2" x:Name="Teilnehmerexml" Content="Teilnehmer.xml" Margin="20" Click="Teilnehmerexml_Click"/>
+    </Grid>
+</Window>

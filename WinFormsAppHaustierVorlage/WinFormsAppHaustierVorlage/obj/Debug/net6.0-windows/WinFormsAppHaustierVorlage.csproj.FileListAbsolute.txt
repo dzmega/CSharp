@@ -1,0 +1,17 @@
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\bin\Debug\net6.0-windows\WinFormsAppHaustierVorlage.exe
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\bin\Debug\net6.0-windows\WinFormsAppHaustierVorlage.deps.json
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\bin\Debug\net6.0-windows\WinFormsAppHaustierVorlage.runtimeconfig.json
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\bin\Debug\net6.0-windows\WinFormsAppHaustierVorlage.dll
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\bin\Debug\net6.0-windows\ref\WinFormsAppHaustierVorlage.dll
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\bin\Debug\net6.0-windows\WinFormsAppHaustierVorlage.pdb
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\obj\Debug\net6.0-windows\WinFormsAppHaustierVorlage.csproj.AssemblyReference.cache
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\obj\Debug\net6.0-windows\WinFormsAppHaustierVorlage.Form1.resources
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\obj\Debug\net6.0-windows\WinFormsAppHaustierVorlage.csproj.GenerateResource.cache
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\obj\Debug\net6.0-windows\WinFormsAppHaustierVorlage.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\obj\Debug\net6.0-windows\WinFormsAppHaustierVorlage.AssemblyInfoInputs.cache
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\obj\Debug\net6.0-windows\WinFormsAppHaustierVorlage.AssemblyInfo.cs
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\obj\Debug\net6.0-windows\WinFormsAppHaustierVorlage.csproj.CoreCompileInputs.cache
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\obj\Debug\net6.0-windows\WinFormsAppHaustierVorlage.dll
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\obj\Debug\net6.0-windows\ref\WinFormsAppHaustierVorlage.dll
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\obj\Debug\net6.0-windows\WinFormsAppHaustierVorlage.pdb
+H:\C#\WinFormsAppHaustierVorlage\WinFormsAppHaustierVorlage\obj\Debug\net6.0-windows\WinFormsAppHaustierVorlage.genruntimeconfig.cache

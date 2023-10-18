@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ca60e67-0b21-4303-ba1d-cef32cdbd8e3": {
+      "ProjectGuid": "0ca60e67-0b21-4303-ba1d-cef32cdbd8e3",
+      "DisplayName": "ConsoleAppAutorennen",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

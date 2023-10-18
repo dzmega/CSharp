@@ -1,0 +1,11 @@
+H:\C#\WindowsFormsAppIP\WindowsFormsAppIP\bin\Debug\WindowsFormsAppIP.exe.config
+H:\C#\WindowsFormsAppIP\WindowsFormsAppIP\bin\Debug\WindowsFormsAppIP.exe
+H:\C#\WindowsFormsAppIP\WindowsFormsAppIP\bin\Debug\WindowsFormsAppIP.pdb
+H:\C#\WindowsFormsAppIP\WindowsFormsAppIP\obj\Debug\WindowsFormsAppIP.csproj.AssemblyReference.cache
+H:\C#\WindowsFormsAppIP\WindowsFormsAppIP\obj\Debug\WindowsFormsAppIP.csproj.SuggestedBindingRedirects.cache
+H:\C#\WindowsFormsAppIP\WindowsFormsAppIP\obj\Debug\WindowsFormsAppIP.Form1.resources
+H:\C#\WindowsFormsAppIP\WindowsFormsAppIP\obj\Debug\WindowsFormsAppIP.Properties.Resources.resources
+H:\C#\WindowsFormsAppIP\WindowsFormsAppIP\obj\Debug\WindowsFormsAppIP.csproj.GenerateResource.cache
+H:\C#\WindowsFormsAppIP\WindowsFormsAppIP\obj\Debug\WindowsFormsAppIP.csproj.CoreCompileInputs.cache
+H:\C#\WindowsFormsAppIP\WindowsFormsAppIP\obj\Debug\WindowsFormsAppIP.exe
+H:\C#\WindowsFormsAppIP\WindowsFormsAppIP\obj\Debug\WindowsFormsAppIP.pdb

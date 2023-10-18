@@ -1,0 +1,17 @@
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\bin\Debug\WpfAppPerson.exe.config
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\bin\Debug\WpfAppPerson.exe
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\bin\Debug\WpfAppPerson.pdb
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\WpfAppPerson.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\WpfAppPerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\MainWindow.g.cs
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\App.g.cs
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\WpfAppPerson_MarkupCompile.cache
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\WpfAppPerson_MarkupCompile.lref
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\WpfAppPerson.g.resources
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\WpfAppPerson.Properties.Resources.resources
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\WpfAppPerson.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\WpfAppPerson.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\WpfAppPerson.exe
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\WpfAppPerson.pdb
+C:\Users\David\Desktop\Schule\C#\WpfAppPerson\obj\Debug\GeneratedInternalTypeHelper.g.cs
